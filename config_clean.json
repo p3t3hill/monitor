@@ -1,0 +1,18 @@
+{
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": "",
+    "emailHost": "mail.petehill.co.uk",
+    "emailPort": 465,
+    "emailUser": "validator@petehill.co.uk",
+    "emailPass": "",
+    "avaPath" :"/home/pete/avalanchego",
+    "regenPath" :"/home/pete/go/bin/regen",
+    "eth2Path" :"/usr/local/bin/validator",
+    "osmoPath" :"/home/pete/go/bin/osmosisd"
+    
+}
